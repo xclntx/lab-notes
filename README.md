@@ -1,18 +1,13 @@
-# Lab Notes 📝  
+# Lab Notes 📝
 
-Notes from experiments, tests & setups.  
-Sometimes things break, sometimes they work – either way, I learn something.  
+A collection of troubleshooting cases, experiments & setups.  
+Raw notes, real logs, and lessons learned.  
 
-## 🔬 Current experiments
-- Playing with Fleet bundles  
-- Testing CI/CD workflows with GitHub & Harbor  
-- TLS certificates with cert-manager  
-
-## 📚 To be added
-- Troubleshooting notes  
-- Automation scripts  
-- Cluster experiments  
+## Cases
+- [Cert-Manager: Stuck requests](2025-09-cert-manager-stuck.md)  
+- [Fleet bundle post-render debug](2025-09-fleet-bundle-debug.md)  
+- [OCI Runtime: runc missing binary](2025-09-runc-missing-binary.md)  
 
 ---
 
-⚡ This repo is my digital scratchpad – raw but useful.  
+⚡ These are not polished tutorials – they’re real-world notes from my work in clusters.
