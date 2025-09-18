@@ -3,11 +3,16 @@
 Notes from experiments, tests & setups.  
 Sometimes things break, sometimes they work – either way, I learn something.  
 
-## 🔬 Possible topics
-- Cluster setups & troubleshooting  
-- CI/CD experiments  
-- Random scripts & automation ideas  
-- Anything worth remembering  
+## 🔬 Current experiments
+- Playing with Fleet bundles  
+- Testing CI/CD workflows with GitHub & Harbor  
+- TLS certificates with cert-manager  
 
-## 💡 Goal
-Keep track of what I try out, so I don’t have to reinvent the wheel later.  
+## 📚 To be added
+- Troubleshooting notes  
+- Automation scripts  
+- Cluster experiments  
+
+---
+
+⚡ This repo is my digital scratchpad – raw but useful.  
